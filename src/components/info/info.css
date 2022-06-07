@@ -1,0 +1,69 @@
+@media screen and (max-width:400px) {
+    .sobre{
+        display: flex;
+        background-image: linear-gradient(to top, grey,black);
+        width: 100%;
+        height: 600px;
+        justify-content: center;
+    }
+
+    #img{
+        height: 300px;
+        width: 300px;
+        margin-left: 40px;
+        border-radius: 10px;
+    }
+
+    h2{
+        margin-top: 30px;
+        color: aliceblue;
+        padding: 10px;
+        text-align: center;
+    }
+
+    li{
+        text-decoration: aliceblue;
+    }
+
+    .empresa{
+        width: 100%;
+        height: 100px;
+    }
+
+    .imagem{
+        width: 100%;
+        height: 100px;
+    }
+
+    .end{
+        margin-top: 500px;
+        width: 100%;
+        height: 400px;
+        background-image: linear-gradient(to  top, black, grey);
+    }
+
+    .map {
+        margin-top: 50px;
+        width: 300px;
+        height: 200px;
+        border-radius: 10px;
+        margin-left: 40px;
+    }
+
+    h1{
+        text-align: center;
+        margin-top: 500px;
+        color: aliceblue;
+    }
+
+    
+
+   
+    
+    
+}
+
+
+
+
+

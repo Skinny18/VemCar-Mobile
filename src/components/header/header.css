@@ -1,0 +1,33 @@
+@media  screen and (max-width:400px) {
+    .navbar{
+        width: 100%;
+        justify-content: center;
+        height: 100px;
+        display: flex;
+        background-color: black;
+    }
+
+    #contact{
+        width: 100%;
+        background-color: black;
+        justify-content: center;
+        text-align: center;
+        text-decoration: aliceblue;
+    }
+
+    #logo{
+        height: 100px;
+    }
+
+    #links{
+        
+        color: antiquewhite;
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-decoration: none;
+        margin-left: 15px;
+            
+            
+        
+    }
+}
