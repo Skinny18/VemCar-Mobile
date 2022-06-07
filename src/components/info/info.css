@@ -10,7 +10,7 @@
     #img{
         height: 300px;
         width: 300px;
-        margin-left: 40px;
+        margin-left: 50px;
         border-radius: 10px;
     }
 
@@ -46,8 +46,8 @@
         margin-top: 50px;
         width: 300px;
         height: 200px;
+        margin-left: 50px;
         border-radius: 10px;
-        margin-left: 40px;
     }
 
     h1{
@@ -62,6 +62,85 @@
     
     
 }
+
+
+.sobre{
+    display: flex;
+    width: 100%;
+    background-image:linear-gradient(to top, grey , black);
+    height: 900px;
+}
+
+#img{
+    margin-top: 40px;
+    border-radius: 10px;
+    width: 500px;
+    
+}
+
+.empresa{
+    align-items: left;
+    
+}
+
+
+.imagem{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+    height: 300px;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-top: 40px;
+    text-align: center ;
+   
+    
+}
+
+
+h1{
+    margin-top: 70px;
+    color: aliceblue;
+    text-align: left;
+    margin-left: 400px;
+
+}
+
+li{
+    color: aliceblue;
+    margin-left: 10px;
+    padding: 5px;
+    font-size:large;
+    
+    
+}
+
+.info{
+    text-align: center;
+    margin-left: 10px;
+    color: aliceblue;
+    margin-top: 40px;
+}
+
+.end{
+    text-align: center;
+    display: inline-block;
+    color: aliceblue;
+    float: left;
+    width: 100%;
+}
+
+.map{
+    background: white;
+    height: 300px;
+    border-radius: 10px;
+    width: 300px;
+    justify-content: center;
+    margin-left: 350px;
+}
+
+
 
 
 
