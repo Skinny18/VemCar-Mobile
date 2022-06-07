@@ -1,6 +1,9 @@
 {
   "name": "vemcarmobile",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.x"
+  },
   "private": true,
   "dependencies": {
     "@react-google-maps/api": "^2.12.0",
